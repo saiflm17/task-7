@@ -30,7 +30,7 @@
 
 - CPU, Memory, Disk, network, Docker Containers .
 
-- Now am creating a New dashboard and Dashboard_name : project .
+- Now am creating a New dashboard and Dashboard_name : Deployment - Dashboard .
 
 - and also am  creating some containers by using commands .
 
